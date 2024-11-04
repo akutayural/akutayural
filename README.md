@@ -30,9 +30,9 @@ I'm a **Python Backend Developer** based in London, UK, with a strong focus on b
   ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
 ### 🌱 What I’m Currently Exploring
-- Expanding my knowledge in **machine learning** and **predictive analytics** with a focus on practical applications in FinTech.
-- Experimenting with **VANET** (Vehicular Ad Hoc Networks) for real-time vehicle diagnostics and predictive maintenance using machine learning models.
-- Enhancing application performance and scalability through advanced caching techniques and session management with Redis.
+- **Advanced Backend Architectures**: Delving into microservices and distributed systems to build even more scalable, resilient applications.
+- **Real-Time Data Processing**: Experimenting with high-frequency, real-time data processing to improve transaction speed and user experience in FinTech.
+- **Enhanced Application Security**: Studying techniques in data encryption, threat detection, and robust authentication protocols to safeguard applications and user data.
 
 ### 💼 Professional Highlights
 - **End-to-End Development**: Designed and built high-performance FinTech applications from scratch, including digital wallets, payment gateways, and fraud detection systems.
