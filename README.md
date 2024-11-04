@@ -20,7 +20,7 @@ I'm a **Python Backend Developer** based in London, UK. I specialize in FinTech 
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ### 📊 GitHub Stats
-![Ahmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default&hide=stars&count_private=true)
+![Ahmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=akutayural&show_icons=true&theme=default&hide=stars&count_private=true)
 
 ### 📖 Latest Articles
 You can read my articles on Medium: [Ahmet Kutay](https://medium.com/@your-medium-username)
