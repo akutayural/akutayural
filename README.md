@@ -26,6 +26,6 @@ I'm a **Python Backend Developer** based in London, UK. I specialize in FinTech 
 You can read my articles on Medium: [Ahmet Kutay](https://medium.com/@your-medium-username)
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmet-kutay-ural-697b60191/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akutayural)
 
 Happy coding! 🚀
