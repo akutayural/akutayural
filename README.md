@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ahmet Kutay
+# 👋 Hi, I'm Kutay
 
 I'm a **Python Backend Developer** based in London, UK, with a strong focus on building scalable, high-performance systems. I specialize in FinTech applications, diving deep into the intricacies of payment processing, cryptocurrency platforms, and e-wallet solutions. Alongside my backend expertise, I hold an MSc in Data Science and have a keen interest in machine learning and predictive analytics.
 
