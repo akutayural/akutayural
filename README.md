@@ -37,7 +37,7 @@ I'm a **Python Backend Developer** based in London, UK, with a strong focus on b
 ### 💼 Professional Highlights
 - **End-to-End Development**: Designed and built high-performance FinTech applications from scratch, including digital wallets, payment gateways, and fraud detection systems.
 - **Data-Driven Solutions**: Leveraged data science principles to drive efficiency and scalability in backend development, improving transaction handling, latency, and user experience.
-- **System Optimization**: Boosted processing speeds by up to 65% and reduced database costs by 7% through optimized backend architecture and caching strategies.
+- **System Optimization**: Boosted processing speeds by up to 95% and reduced database costs by 7% through optimized backend architecture and caching strategies.
 - **Proactive Security**: Implemented security measures like KYC/KYT and real-time fraud detection to protect user data and minimize financial risk.
 
 ### 📫 Connect with Me
