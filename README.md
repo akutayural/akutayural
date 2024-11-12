@@ -31,7 +31,7 @@ I'm a **Python Software Engineer** based in London, UK, with a strong focus on b
 
 ### 📢 New Library Release!
 
-Check out my latest library, **[APIException](https://pypi.org/project/APIException/)**! 🎉 It’s a fully customizable exception-handling toolkit for FastAPI, designed to standardize error codes, messages, and HTTP status responses. Perfect for anyone wanting centralized control over error handling from the backend.
+Check out my latest library, **[APIException](https://github.com/akutayural/APIException)**! 🎉 It’s a fully customizable exception-handling toolkit for FastAPI, designed to standardize error codes, messages, and HTTP status responses. Perfect for anyone wanting centralized control over error handling from the backend.
 
 **APIException** includes:
 - Extensible error codes
