@@ -29,10 +29,22 @@ I'm a **Python Software Engineer** based in London, UK, with a strong focus on b
   ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white)
   ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
+### 📢 New Library Release!
+
+Check out my latest library, **[APIException](https://pypi.org/project/APIException/)**! 🎉 It’s a fully customizable exception-handling toolkit for FastAPI, designed to standardize error codes, messages, and HTTP status responses. Perfect for anyone wanting centralized control over error handling from the backend.
+
+**APIException** includes:
+- Extensible error codes
+- Detailed logging
+- Seamless integration with FastAPI
+
+It makes handling exceptions and managing responses a breeze. Give it a try on [PyPI](https://pypi.org/project/APIException/) and let me know what you think! 😊
+
 ### 🌱 What I’m Currently Exploring
 - **Advanced Backend Architectures**: Delving into microservices and distributed systems to build even more scalable, resilient applications.
 - **Real-Time Data Processing**: Experimenting with high-frequency, real-time data processing to improve transaction speed and user experience in FinTech.
 - **Enhanced Application Security**: Studying techniques in data encryption, threat detection, and robust authentication protocols to safeguard applications and user data.
+- Check out my latest Python library, **APIException**! 🎉 It’s a fully customizable exception-handling toolkit for FastAPI, designed to standardize error codes, messages, and HTTP status responses. Perfect for anyone wanting centralized control over error handling from the backend. With features like extensible error codes, detailed logging, and seamless integration with FastAPI, APIException makes handling exceptions and managing responses a breeze. Give it a try, and let me know what you think! 
 
 ### 💼 Professional Highlights
 - **End-to-End Development**: Designed and built high-performance FinTech applications from scratch, including digital wallets, payment gateways, and fraud detection systems.
