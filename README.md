@@ -50,7 +50,7 @@ This lightweight yet powerful toolkit allows you to standardise error responses 
 📦 Available on [PyPI](https://pypi.org/project/APIException/) — install with:
 
 ```bash
-pip install apiexceptio
+pip install apiexception
 ```
 Give it a try and make your backend error handling bulletproof! 💥
 
