@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=akutayural&color=blue)
 # 👋 Hi, I'm Kutay
 
 I'm a **Python Software Engineer** based in London, UK, with a strong focus on building scalable, high-performance systems. I specialise in FinTech applications, diving deep into the intricacies of payment processing, cryptocurrency platforms, and e-wallet solutions. Alongside my backend expertise, I hold an MSc in Data Science and have a keen interest in machine learning and predictive analytics.
