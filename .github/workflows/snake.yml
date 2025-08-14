@@ -5,31 +5,22 @@ on:
     - cron: "0 0 * * *"   # her gece 00:00 UTC
   workflow_dispatch:       # elle tetikleme
 
+permissions:
+  contents: write          # output branch'e push için gerekli
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate DARK snake
+      - name: Generate SVGs (dark & light)
         uses: Platane/snk@v3
         with:
           github_user_name: akutayural
-          outputs: dist/snake-dark.svg
-          args: |
-            --palette=github-dark
-            --color_snake=#00ffcc
-            --color_dots=#1a1a1a,#2e2e2e,#404040,#585858,#6a6a6a
+          outputs: |
+            dist/snake-dark.svg?palette=github-dark
+            dist/snake-light.svg?palette=github-light
 
-      - name: Generate LIGHT snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: akutayural
-          outputs: dist/snake-light.svg
-          args: |
-            --palette=github-light
-            --color_snake=#00bfa5
-            --color_dots=#e6e6e6,#d9d9d9,#cccccc,#bfbfbf,#b3b3b3
-
-      - name: List built files (debug)
+      - name: Check files
         run: ls -la dist
 
       - name: Publish to output branch
