@@ -17,6 +17,9 @@
   <a href="https://dev.to/akutayural">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
   </a>
+  <a href="https://github.com/akutayural">
+  <img src="https://komarev.com/ghpvc/?username=akutayural&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  </a>
 </div>
 
 ---
@@ -102,14 +105,6 @@ With an **MSc in Data Science**, I’m also passionate about **machine learning*
 
 ### 📫 Connect with Me
 
-### 🐍 Snake GitHub Contributions
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akutayural/akutayural/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akutayural/akutayural/output/snake-light.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/akutayural/akutayural/output/snake-dark.svg" />
-</picture>
-
-
 <div align="center">
   <a href="https://www.linkedin.com/in/akutayural">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -125,52 +120,22 @@ With an **MSc in Data Science**, I’m also passionate about **machine learning*
   </a>
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akutayural/akutayural/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akutayural/akutayural/output/snake-light.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/akutayural/akutayural/output/snake-dark.svg" />
+</picture>
+
 ---
 
-## 📢 Latest Release: APIException  
-Introducing [APIException](https://github.com/akutayural/APIException) — a fully customizable exception-handling library built for **FastAPI**.
-
-**Features:**
-- ✅ Custom error codes & structured messages  
-- ✅ Detailed logs for better debugging  
-- ✅ Plug-and-play integration with FastAPI  
-
-📦 Install via:
-```bash
-pip install apiexception
-
 ### 📢 **Latest Release: APIException**  
-Introducing [APIException](https://github.com/akutayural/APIException) — a fully customizable exception-handling library built for **FastAPI**.
+`APIException` is a fully customizable exception-handling toolkit for FastAPI. It enhances your Swagger docs, automatically logs errors, and converts even unregistered exceptions into a clean, consistent response format. Perfect for keeping your API responses standardized and developer-friendly.  
+[📄 Documentation](https://akutayural.github.io/APIException/) • [📦 PyPI](https://pypi.org/project/APIException)
 
-This lightweight yet powerful toolkit allows you to standardise error responses across your API using clean, extensible structures. Whether you're building a FinTech app or a high-scale platform, APIException helps you handle backend errors with elegance and control.
-
-### 🔧 Features
-- ✅ Custom error codes & structured messages
-- ✅ Detailed logs for better debugging
-- ✅ Native FastAPI integration with plug-and-play setup
-
-📦 Available on [PyPI](https://pypi.org/project/APIException/) — install with:
-
+📦 Install via pip:
 ```bash
 pip install apiexception
 ```
 
-Give it a try and make your backend error handling bulletproof! 💥
-
-It makes handling exceptions and managing responses a breeze. Give it a try on [PyPI](https://pypi.org/project/APIException/) and let me know what you think! 😊
-
-### 🌱 What I’m Currently Exploring
-- **Advanced Backend Architectures**: Delving into microservices and distributed systems to build even more scalable, resilient applications.
-- **Real-Time Data Processing**: Experimenting with high-frequency, real-time data processing to improve transaction speed and user experience in FinTech.
-- **Enhanced Application Security**: Studying techniques in data encryption, threat detection, and robust authentication protocols to safeguard applications and user data.
-- Check out my latest Python library, **APIException**! 🎉 It’s a fully customizable exception-handling toolkit for FastAPI, designed to standardize error codes, messages, and HTTP status responses. Perfect for anyone wanting centralized control over error handling from the backend. With features like extensible error codes, detailed logging, and seamless integration with FastAPI, APIException makes handling exceptions and managing responses a breeze. Give it a try, and let me know what you think! 
-
-### 💼 Professional Highlights
-- **End-to-End Development**: Designed and built high-performance FinTech applications from scratch, including digital wallets, payment gateways, and fraud detection systems.
-- **Data-Driven Solutions**: Leveraged data science principles to drive efficiency and scalability in backend development, improving transaction handling, latency, and user experience.
-- **System Optimization**: Boosted processing speeds by up to 95% and reduced database costs by 7% through optimized backend architecture and caching strategies.
-- **Proactive Security**: Implemented security measures like KYC/KYT and real-time fraud detection to protect user data and minimize financial risk.
-
 Happy coding! 🚀
 
-![Profile Views](https://komarev.com/ghpvc/?username=akutayural&color=blue)
