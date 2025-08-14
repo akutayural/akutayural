@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there! I'm Kutay</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Python+Software+Engineer+🐍;FinTech+%7C+E-Wallets+%7C+Crypto+Platforms+💳;FastAPI+%7C+Flask+%7C+Django+⚡;AWS+%7C+Docker+%7C+Kubernetes+%7C+ArgoCD+☁️;Always+learning%2C+always+innovating+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Python+Software+Engineer+%F0%9F%90%8D+based+in+London;Specializing+in+scalable%2C+high-performance+systems;Expert+in+FinTech%2C+Payments%2C+Crypto+Platforms+%F0%9F%92%B3;MSc+in+Data+Science+with+focus+on+ML+%26+Predictive+Analytics;FastAPI+%7C+Flask+%7C+Django+%E2%9A%A1;AWS+%7C+Docker+%7C+Kubernetes+%7C+ArgoCD+%E2%98%81%EF%B8%8F;Always+learning%2C+always+innovating+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <div align="center">
