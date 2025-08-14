@@ -145,6 +145,9 @@ It makes handling exceptions and managing responses a breeze. Give it a try on [
 - **Proactive Security**: Implemented security measures like KYC/KYT and real-time fraud detection to protect user data and minimize financial risk.
 
 ### 📫 Connect with Me
+
+![Snake animation](https://raw.githubusercontent.com/ahmetkutayural/ahmetkutayural/output/snake.svg)
+
 <div align="center">
   <a href="https://www.linkedin.com/in/akutayural">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
