@@ -1,10 +1,9 @@
-<!-- Tercih 2: HTML ile genişlik ayarla -->
 <p align="center">
-  <img src="./intro.gif" alt="Kutay Intro" width="1000">
+  <img src="intro.gif" alt="Intro GIF" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Python+Software+Engineer+🐍;FinTech+%7C+E-Wallets+%7C+Crypto+Platforms+💳;FastAPI+%7C+Flask+%7C+Django+⚡;AWS+%7C+Docker+%7C+Kubernetes+%7C+ArgoCD+☁️;Always+learning%2C+always+innovating+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=💼+Software+Engineer+%40FinTech;⚡+FastAPI+%7C+Flask+%7C+Django;☁️+AWS+%7C+Docker+%7C+Kubernetes+%7C+ArgoCD;🎓+Data+Science+MSc.+%7C+Computer+Engineering+BSc." alt="Typing SVG" />
 </p>
 
 <div align="center">
