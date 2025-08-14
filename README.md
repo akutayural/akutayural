@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there! I'm Kutay</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Python+Software+Engineer+%F0%9F%90%8D+based+in+London;Specializing+in+scalable%2C+high-performance+systems;Expert+in+FinTech%2C+Payments%2C+Crypto+Platforms+%F0%9F%92%B3;MSc+in+Data+Science+with+focus+on+ML+%26+Predictive+Analytics;FastAPI+%7C+Flask+%7C+Django+%E2%9A%A1;AWS+%7C+Docker+%7C+Kubernetes+%7C+ArgoCD+%E2%98%81%EF%B8%8F;Always+learning%2C+always+innovating+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Python+Software+Engineer+🐍;FinTech+%7C+E-Wallets+%7C+Crypto+Platforms+💳;FastAPI+%7C+Flask+%7C+Django+⚡;AWS+%7C+Docker+%7C+Kubernetes+%7C+ArgoCD+☁️;Always+learning%2C+always+innovating+🚀" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -26,11 +26,9 @@ I'm a **Python Software Engineer** based in **London, UK**, specializing in **sc
 I have a strong background in **FinTech applications** such as payment processing, cryptocurrency platforms, and e-wallet solutions.  
 With an **MSc in Data Science**, I’m also passionate about **machine learning** and **predictive analytics**.
 
----
-
 ## 🛠 Tech Stack
 
-### 📊 Data & Databases
+### 📊 Data & Analytics
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" />
@@ -41,7 +39,7 @@ With an **MSc in Data Science**, I’m also passionate about **machine learning*
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </div>
 
-### 🌐 Backend & APIs
+### 🌐 Web Development
 <div align="center">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
