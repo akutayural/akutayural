@@ -17,6 +17,9 @@
   <a href="https://dev.to/akutayural">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
   </a>
+  <a href="https://www.ahmetkutayural.dev">
+    <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </div>
 
 ---
