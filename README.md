@@ -35,13 +35,6 @@
 
 ---
 
-## 💼 About Me
-I'm a **Python Software Engineer** based in **London, UK**, specializing in **scalable, high-performance systems**.  
-I have a strong background in **FinTech applications** such as payment processing, cryptocurrency platforms, and e-wallet solutions.  
-With an **MSc in Data Science**, I’m also passionate about **machine learning** and **predictive analytics**.
-
----
-
 ## 🛠 Tech Stack
 
 ### 📊 Data & Analytics
@@ -128,8 +121,15 @@ With an **MSc in Data Science**, I’m also passionate about **machine learning*
 
 ---
 
+## 💼 About Me
+I'm a **Python Software Engineer** based in **London, UK**, specializing in **scalable, high-performance systems**.  
+I have a strong background in **FinTech applications** such as payment processing, cryptocurrency platforms, and e-wallet solutions.  
+With an **MSc in Data Science**, I’m also passionate about **machine learning** and **predictive analytics**.
+
+---
+
 ### 📢 **Latest Release: APIException**  
-`APIException` is a fully customizable exception-handling toolkit for FastAPI. It enhances your Swagger docs, automatically logs errors, and converts even unregistered exceptions into a clean, consistent response format. Perfect for keeping your API responses standardized and developer-friendly.  
+`APIException` is a fully customizable exception-handling toolkit for FastAPI. It enhances your Swagger docs, automatically logs errors, and converts even unregistered exceptions into a clean, consistent response format. Perfect for keeping your API responses standardised and developer-friendly.  
 [📄 Documentation](https://akutayural.github.io/APIException/) • [📦 PyPI](https://pypi.org/project/APIException)
 
 📦 Install via pip:
