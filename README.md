@@ -100,6 +100,32 @@ With an **MSc in Data Science**, I’m also passionate about **machine learning*
 
 ---
 
+### 📫 Connect with Me
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akutayural/akutayural/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akutayural/akutayural/output/snake-light.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/akutayural/akutayural/output/snake-dark.svg" />
+</picture>
+
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/akutayural">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@ahmetkutayural">
+    <img src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://dev.to/akutayural">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+  </a>
+  <a href="https://www.ahmetkutayural.dev">
+    <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</div>
+
+---
+
 ## 📢 Latest Release: APIException  
 Introducing [APIException](https://github.com/akutayural/APIException) — a fully customizable exception-handling library built for **FastAPI**.
 
@@ -143,26 +169,6 @@ It makes handling exceptions and managing responses a breeze. Give it a try on [
 - **Data-Driven Solutions**: Leveraged data science principles to drive efficiency and scalability in backend development, improving transaction handling, latency, and user experience.
 - **System Optimization**: Boosted processing speeds by up to 95% and reduced database costs by 7% through optimized backend architecture and caching strategies.
 - **Proactive Security**: Implemented security measures like KYC/KYT and real-time fraud detection to protect user data and minimize financial risk.
-
-### 📫 Connect with Me
-
-### 🐍 Snake GitHub Contributions
-![Snake animation](https://raw.githubusercontent.com/akutayural/akutayural/output/snake.svg)
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/akutayural">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@ahmetkutayural">
-    <img src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-  <a href="https://dev.to/akutayural">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
-  </a>
-  <a href="https://www.ahmetkutayural.dev">
-    <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</div>
 
 Happy coding! 🚀
 
