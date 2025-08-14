@@ -1,5 +1,4 @@
-# Hey there! 👋 I'm Kutay Ural
-
+![Kutay Intro](assets/intro.gif)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Python+Software+Engineer+🐍;FinTech+%7C+E-Wallets+%7C+Crypto+Platforms+💳;FastAPI+%7C+Flask+%7C+Django+⚡;AWS+%7C+Docker+%7C+Kubernetes+%7C+ArgoCD+☁️;Always+learning%2C+always+innovating+🚀" alt="Typing SVG" />
