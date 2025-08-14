@@ -6,16 +6,16 @@
 
 <div align="center">
   <a href="https://www.ahmetkutayural.dev">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/akutayural">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/akutayural?tab=followers">
-    <img src="https://img.shields.io/github/followers/akutayural?label=🤝 Followers&style=for-the-badge&color=blue" />
+  <a href="https://medium.com/@ahmetkutayural">
+    <img src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-  <a href="https://komarev.com/ghpvc/?username=akutayural">
-    <img src="https://komarev.com/ghpvc/?username=akutayural&style=for-the-badge&color=brightgreen&label=👀 Profile Views" />
+  <a href="https://dev.to/akutayural">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
   </a>
 </div>
 
