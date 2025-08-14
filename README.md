@@ -124,7 +124,7 @@ It makes handling exceptions and managing responses a breeze. Give it a try on [
 - **System Optimization**: Boosted processing speeds by up to 95% and reduced database costs by 7% through optimized backend architecture and caching strategies.
 - **Proactive Security**: Implemented security measures like KYC/KYT and real-time fraud detection to protect user data and minimize financial risk.
 
-### 📫 Connect with Me##
+### 📫 Connect with Me
 <div align="center">
   <a href="https://www.linkedin.com/in/akutayural">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
