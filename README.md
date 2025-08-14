@@ -1,41 +1,87 @@
-# 👋 Hi, I'm Kutay
+<h1 align="center">👋 Hey there! I'm Kutay</h1>
 
-I'm a **Python Software Engineer** based in London, UK, with a strong focus on building scalable, high-performance systems. I specialise in FinTech applications, diving deep into the intricacies of payment processing, cryptocurrency platforms, and e-wallet solutions. Alongside my backend expertise, I hold an MSc in Data Science and have a keen interest in machine learning and predictive analytics.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Python+Software+Engineer+🐍;FinTech+%7C+E-Wallets+%7C+Crypto+Platforms+💳;FastAPI+%7C+Flask+%7C+Django+⚡;AWS+%7C+Docker+%7C+Kubernetes+%7C+ArgoCD+☁️;Always+learning%2C+always+innovating+🚀" alt="Typing SVG" />
+</p>
 
+<div align="center">
+  <a href="https://www.ahmetkutayural.dev">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/akutayural">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/akutayural?tab=followers">
+    <img src="https://img.shields.io/github/followers/akutayural?label=🤝 Followers&style=for-the-badge&color=blue" />
+  </a>
+  <a href="https://komarev.com/ghpvc/?username=akutayural">
+    <img src="https://komarev.com/ghpvc/?username=akutayural&style=for-the-badge&color=brightgreen&label=👀 Profile Views" />
+  </a>
+</div>
 
-## 🛠️ Technologies & Tools
+---
 
-### 📊 Data & Analytics  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas) 
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-CA1F23?style=flat) 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql) 
-![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb) 
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis)
+## 💼 About Me
+I'm a **Python Software Engineer** based in **London, UK**, specializing in **scalable, high-performance systems**.  
+I have a strong background in **FinTech applications** such as payment processing, cryptocurrency platforms, and e-wallet solutions.  
+With an **MSc in Data Science**, I’m also passionate about **machine learning** and **predictive analytics**.
 
-### 🌐 Web Development  
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi) 
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask) 
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+---
 
-### ☁️ DevOps & Cloud  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws) 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker) 
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes) 
-![ArgoCD](https://img.shields.io/badge/-ArgoCD-E10098?style=flat)
+## 🛠 Tech Stack
 
-### 🧰 Tools & Others  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git) 
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat&logo=bitbucket) 
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira) 
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq) 
-![Poetry](https://img.shields.io/badge/-Poetry-60A5FA?style=flat) 
-![Pydantic](https://img.shields.io/badge/-Pydantic-00A8E8?style=flat) 
-![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat)
+### 📊 Data & Databases
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-CA1F23?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</div>
 
+### 🌐 Backend & APIs
+<div align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</div>
+
+### ☁️ DevOps & Cloud
+<div align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes" />
+  <img src="https://img.shields.io/badge/ArgoCD-E10098?style=for-the-badge" />
+</div>
+
+### 🧰 Tools & Others
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq" />
+  <img src="https://img.shields.io/badge/Poetry-60A5FA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pydantic-00A8E8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge" />
+</div>
+
+---
+
+## 📢 Latest Release: APIException  
+Introducing [APIException](https://github.com/akutayural/APIException) — a fully customizable exception-handling library built for **FastAPI**.
+
+**Features:**
+- ✅ Custom error codes & structured messages  
+- ✅ Detailed logs for better debugging  
+- ✅ Plug-and-play integration with FastAPI  
+
+📦 Install via:
+```bash
+pip install apiexception
 
 ### 📢 **Latest Release: APIException**  
 Introducing [APIException](https://github.com/akutayural/APIException) — a fully customizable exception-handling library built for **FastAPI**.
@@ -52,6 +98,7 @@ This lightweight yet powerful toolkit allows you to standardise error responses 
 ```bash
 pip install apiexception
 ```
+
 Give it a try and make your backend error handling bulletproof! 💥
 
 It makes handling exceptions and managing responses a breeze. Give it a try on [PyPI](https://pypi.org/project/APIException/) and let me know what you think! 😊
