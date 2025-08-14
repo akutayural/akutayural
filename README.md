@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Python+Software+Engineer+🐍;FinTech+%7C+E-Wallets+%7C+Crypto+Platforms+💳;FastAPI+%7C+Flask+%7C+Django+⚡;AWS+%7C+Docker+%7C+Kubernetes+%7C+ArgoCD+%7C+Kafka+☁️;C+%7C+C%2B%2B+%7C+Java+%7C+Spring+🍀;MSc+in+Data+Science+%7C+BSc+in+Computer+Engineering+🎓;AI+%7C+Machine+Learning+%7C+Predictive+Analytics+🤖" alt="Typing SVG" />
+</p>
+
 <h1 align="center">👋 Hey there! I'm Kutay</h1>
 
 <p align="center">
