@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="intro.gif" alt="Intro GIF" width="100%" />
+  <img src="intro.gif" alt="@akutayural Intro GIF" width="100%" />
 </p>
 
 <p align="center">
