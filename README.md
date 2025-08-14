@@ -102,6 +102,7 @@ With an **MSc in Data Science**, I’m also passionate about **machine learning*
 
 ### 📫 Connect with Me
 
+### 🐍 Snake GitHub Contributions
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akutayural/akutayural/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akutayural/akutayural/output/snake-light.svg" />
