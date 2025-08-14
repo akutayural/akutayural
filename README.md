@@ -20,6 +20,17 @@
 </div>
 
 ---
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=akutayural&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akutayural&theme=tokyonight&hide_border=true" width="400px" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akutayural&layout=compact&theme=tokyonight&hide_border=true" width="400px" />
+</div>
+
+---
 
 ## 💼 About Me
 I'm a **Python Software Engineer** based in **London, UK**, specializing in **scalable, high-performance systems**.  
