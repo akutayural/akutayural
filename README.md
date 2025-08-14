@@ -146,7 +146,8 @@ It makes handling exceptions and managing responses a breeze. Give it a try on [
 
 ### 📫 Connect with Me
 
-![Snake animation](https://raw.githubusercontent.com/ahmetkutayural/ahmetkutayural/output/snake.svg)
+### 🐍 Snake GitHub Contributions
+![Snake animation](https://raw.githubusercontent.com/akutayural/akutayural/output/snake.svg)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/akutayural">
