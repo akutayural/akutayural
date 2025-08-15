@@ -2,9 +2,11 @@
   <img src="intro.gif" alt="@akutayural Intro GIF" width="100%" />
 </p>
 
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=💼+Software+Engineer+%40FinTech;⚡+FastAPI+%7C+Flask+%7C+Django;☁️+AWS+%7C+Docker+%7C+Kubernetes+%7C+ArgoCD;🎓+Data+Science+MSc.+%7C+Computer+Engineering+BSc." alt="Typing SVG" />
 </p>
+
 
 <div align="center">
   <a href="https://www.ahmetkutayural.dev">
@@ -24,8 +26,10 @@
   </a>
 </div>
 
----
+
 ## 📊 GitHub Stats
+
+
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=akutayural&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akutayural&theme=tokyonight&hide_border=true" width="400px" />
@@ -35,14 +39,13 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akutayural&layout=compact&theme=tokyonight&hide_border=true" width="400px" />
 </div>
 
----
+
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=akutayural&theme=darkhub&column=8&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
----
 
-## 🛠 Tech Stack
+## 💻 Tech Stack
 
 ### 📊 Data & Analytics
 <div align="center">
@@ -68,7 +71,7 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 </div>
 
-### 💻 Programming Languages
+### ⚙️ Programming Languages
 <div align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -101,7 +104,6 @@
   <img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 </div>
 
----
 
 ### 📫 Connect with Me
 
@@ -126,7 +128,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/akutayural/akutayural/output/snake-dark.svg" />
 </picture>
 
----
 
 ## 💼 About Me
 I'm a **Python Software Engineer** based in **London, UK**, specializing in **scalable, high-performance systems**.  
@@ -135,7 +136,7 @@ With an **MSc in Data Science**, I’m also passionate about **machine learning*
 
 ---
 
-### 📢 **Latest Release: APIException**  
+### 📢 **Latest Release: [APIException](https://github.com/akutayural/APIException)**  
 `APIException` is a fully customizable exception-handling toolkit for FastAPI. It enhances your Swagger docs, automatically logs errors, and converts even unregistered exceptions into a clean, consistent response format. Perfect for keeping your API responses standardised and developer-friendly.  
 [📄 Documentation](https://akutayural.github.io/APIException/) • [📦 PyPI](https://pypi.org/project/APIException)
 
