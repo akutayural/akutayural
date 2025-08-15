@@ -37,6 +37,11 @@
 
 ---
 
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=ahmetkutayural&theme=darkhub&column=8&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ## 🛠 Tech Stack
 
 ### 📊 Data & Analytics
