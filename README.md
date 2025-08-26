@@ -41,8 +41,13 @@
 
 
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=akutayural&theme=darkhub&column=8&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+<h3>🏆 GitHub Trophies</h3>
+<p align="left">
+  <picture>
+    <source srcset="https://github-trophies.vercel.app/?username=akutayural&theme=onedark&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4&v=1" />
+    <img src="https://github-profile-trophy.vercel.app/?username=akutayural&theme=onedark&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4&v=2" alt="GitHub Trophies" />
+  </picture>
+</p>
 
 
 ## 💻 Tech Stack
